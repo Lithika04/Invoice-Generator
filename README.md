@@ -53,7 +53,9 @@ The **Invoice Generator App** provides:
 ##Example Review Page
 ![Invoice Review](./public/assets/invoice-review.png)
 
+The **Invoice-Generator** game is hosted on **Vercel**, making it available as a public website. 
 
+[Invoice-Generator](https://invoice-generator-wheat-one.vercel.app/)
 ## 🚀 Getting Started
 
 Follow these steps to run the project locally:
